@@ -1,6 +1,6 @@
 ---
 title: "Course Project"
-author: "lileggtart"
+author: "szhangiv"
 date: "9/27/2020"
 output: html_document
 ---
